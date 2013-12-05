@@ -18,20 +18,19 @@ body {
 }
 
 
-.jumbotron {
+.star {
   color: #fff;
-  background: #000 url(../img/deathstar.png) no-repeat 50% 0;
+  background: #000 url(../img/deathstar.png) no-repeat 50% 50%;
   min-height: 450px;
 }
 
 
-
-.glyphiconList {
-  float: right;
-  font-size: 200%;
-  top: 25px;
-  color:#fff;
+.blank {
+  color: #fff;
+  background: #000;
+  min-height: 450px;
 }
+
 
 .list-group-item {
   position: relative;
